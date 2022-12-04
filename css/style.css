@@ -1,0 +1,97 @@
+div{
+	color: rgb(58, 2, 2);
+}
+
+div[title]{
+	color:blueviolet;
+}
+
+p{
+	font-family: Arial;
+	font-size: 15px;
+	font-weight: bold;
+	color:rgb(133, 56, 12);
+	background-color: transparent;
+		border-radius: 10px;
+}
+
+.cr{
+	background-color: red;
+	border: 4px rgb(100, 5, 5) outset;
+	border-radius: 50%;
+	height: 50px;
+	width: 50px;
+}
+
+.gr{
+	background-color: green;
+	border: 4px rgb(2, 53, 2) outset;
+	border-radius: 50%;
+	height: 50px;
+	width: 50px;
+}
+
+.ya{
+	background-color: rgba(236, 233, 16, 0.911);
+	border: 4px rgb(233, 108, 6) outset;
+	border-radius: 50%;
+	height: 50px;
+	width: 50px;
+}
+
+
+.traffic_light{
+	border: 4px;
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+}
+
+
+.red{
+	background-color: red;
+	border-radius: 50%;
+	width: 150px;
+	height: 150px;
+}
+
+.orange{
+	background-color: rgb(226, 171, 19);
+	border-radius: 50%;
+	width: 150px;
+	height: 150px;
+}
+
+.green{
+	background-color: rgb(12, 112, 34);
+	border-radius: 50%;
+	width: 150px;
+	height: 150px;
+}
+
+.logo{
+	background-image: url(../img/main/1.jpg);
+	background-repeat: no-repeat;
+	height: 50px;
+	width: 150px;
+	border: 1px solid black;
+}
+
+.box{
+width: 150px;
+height: 150px;
+bottom: 1px solid black;
+}
+
+.box1{
+	background-color: rgb(200,106,106);
+	margin: 50px;
+}
+
+.box2{
+	background-color: rgb(83,136,172);
+	margin: 50px;
+}
+
+
+
