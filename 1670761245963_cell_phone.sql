@@ -1,0 +1,12 @@
+insert into cell_phone(id,manufacture,model_phone,price_$) values('1','Sony','Xperia E4g Dual','139.00');
+insert into cell_phone(id,manufacture,model_phone,price_$) values('2','Sony','Xperia Z4','542.00');
+insert into cell_phone(id,manufacture,model_phone,price_$) values('3','Sony','Xperia Z4 Ultra','514.00');
+insert into cell_phone(id,manufacture,model_phone,price_$) values('4','Sony','Xperia E4','189.00');
+insert into cell_phone(id,manufacture,model_phone,price_$) values('5','Sony','Xperia Z4 Compact','336.00');
+insert into cell_phone(id,manufacture,model_phone,price_$) values('6','Sony','Xperia Z4 Dual SIM','773.00');
+insert into cell_phone(id,manufacture,model_phone,price_$) values('7','Samsung','Galaxy Tab A7 10 4 2022','245.00');
+insert into cell_phone(id,manufacture,model_phone,price_$) values('8','Samsung','Galaxy W23 5G','1862.00');
+insert into cell_phone(id,manufacture,model_phone,price_$) values('9','Samsung','Galaxy W23 Flip','1104.00');
+insert into cell_phone(id,manufacture,model_phone,price_$) values('10','Samsung','Galaxy A04e','120.00');
+insert into cell_phone(id,manufacture,model_phone,price_$) values('11','Samsung','Galaxy Tab Active 4 PRO','797.00');
+insert into cell_phone(id,manufacture,model_phone,price_$) values('12','Samsung','Galaxy A04s','163.00');
